@@ -1,13 +1,15 @@
+-- i didnt write this its buns
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "sigma fisch script by decryp1",
+   Name = "sigma fisch script",
    LoadingTitle = "very sigma script",
-   LoadingSubtitle = "by decryp1",
+   LoadingSubtitle = "",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil,
-      FileName = "decryp1's fisch script"
+      FileName = "fisch script"
    },
    Discord = {
       Enabled = false,
